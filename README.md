@@ -101,3 +101,7 @@ The pin assignments I used were:
 A Fritzing file for the requisite wiring is <A href=https://github.com/astromikemerri/Microcar/blob/main/microcar.fzz> here</a>
 
 The other hardware elements are the 3D-printed parts, <A href=https://github.com/astromikemerri/Microcar/blob/main/MotorFittings.3mf>the fittings for the motors</a> and <A href=https://github.com/astromikemerri/Microcar/blob/main/housing.3mf>the housing for the project</a>. I printed them on a Bambu A1-mini printer in PETG, using 0.08mm layers, but there is nothing particularly machine-dependent in the files.
+
+Finally, there is <A href=https://github.com/astromikemerri/Microcar/blob/main/XXX>the code</a>.  This sketch sets up the ESP32 as a web servre, which serves a webpage to your phone, which uses JavaScript to access the orientation data your pjone maintains, which is then sent back to the ESP32 from your phone via websockets.  Since iPhones only allow access to this data over a secure connection, you will also need <A href=https://github.com/astromikemerri/Microcar/blob/main/XXX>this header file</a> with the certificates in it, which you just have to place in the same folder as the sketch when uploading the code ising the Arduino IDE.
+
+(to steer by tipping side to side and accelerate by tipping away from you)
