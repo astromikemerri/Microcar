@@ -24,7 +24,7 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>Seeed Studio XIAO ESP32S3</td>
       <td>1</td>
       <td>Main microcontroller board (Wi-Fi + Bluetooth + USB-C)</td>
-      <td><a href=https://www.amazon.co.uk/dp/B0BYSB66S5>link</a></td>
+      <td><a href="https://www.amazon.co.uk/dp/B0BYSB66S5">link</a></td>
     </tr>
     <tr>
       <td>2</td>
@@ -45,14 +45,14 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>End-stop Microswitches</td>
       <td>2</td>
       <td>Normally-open switches for homing (LOW when pressed)</td>
-      <td><a href="https://www.switchelectronics.co.uk/products/11mm-lever-subminiature-pcb-microswitch-spdt-3a">Insert link here</a></td>
+      <td><a href="https://www.switchelectronics.co.uk/products/11mm-lever-subminiature-pcb-microswitch-spdt-3a">link</a></td>
     </tr>
     <tr>
       <td>5</td>
       <td>9 V DC Power Supply</td>
       <td>1</td>
       <td>Regulated wall adapter for motor drivers (≥ 1 A recommended)</td>
-      <td><a href="#">Insert link here</a></td>
+      <td><a href="https://www.amazon.co.uk/dp/B0DF2LGSHR">link</a></td>
     </tr>
   
     <tr>
