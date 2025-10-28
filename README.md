@@ -190,7 +190,7 @@ The pin assignments I used were:
 
 <img src=https://github.com/astromikemerri/Microcar/blob/main/circuitwiring.jpg>
 
-A Fritzing file for the requisite wiring is <A href=https://github.com/astromikemerri/Microcar/blob/main/microcar.fzz> here</a>
+A Fritzing file for the requisite wiring is <A href=https://github.com/astromikemerri/Microcar/blob/main/microcar.fzz>here</a>.
 
 One piece of the hardware you may have to tune is to make sure that the A4988 has been set to a current limit appropriate to these minie stepper motors, by adjusting the potentiometer on the board with a small screwdriver:
 1. Power the setup (XIAO on, 9V [pwer supply on).
