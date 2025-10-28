@@ -58,7 +58,7 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>6</td>
       <td>Multimeter</td>
       <td>1</td>
-      <td>Only needed to measure the reference voltage on the A4988 boards, to make sure they do not overpower the stepper mnotors</td>
+      <td>Only needed to measure the reference voltage on the A4988 boards, to make sure they do not overpower the stepper motors</td>
       <td><a href="https://www.amazon.co.uk/AstroAI-Digital-Multimeter-Measurement-Electronic/dp/B01ISAMUA6/">link</a></td>
     </tr>
     <tr>
