@@ -68,7 +68,6 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>>placed across motor power supply input adjacent to A4988, to suppress power spikes</td>
       <td><a href="https://www.amazon.co.uk/dp/B07KC99W2K">link</a></td>
     </tr>    
-
     <tr>
       <td>8</td>
       <td>100k Ohm Resistor</td>
@@ -76,7 +75,6 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>pulldwn on STEP pin of A4988</td>
       <td><a href="https://www.amazon.co.uk/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FD1XVL6">link</a></td>
     </tr>    
-
     <tr>
       <td>9</td>
       <td>M2.5x6 screws and washers</td>
