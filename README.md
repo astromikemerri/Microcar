@@ -5,6 +5,8 @@ Here is the project with its driving surface removed, to show how it all works -
 
 <img src=https://github.com/astromikemerri/Microcar/blob/main/Topless.jpg width=500>
 
+<img src=https://github.com/astromikemerri/Microcar/blob/main/animation.gif>
+
 And <A href=https://github.com/astromikemerri/Microcar/blob/main/Testdrive.mov>here is a quick test drive demo</a> to show the full silliness of the project.
 
 The  hardware that you need, together with some suggested links for buying it, is:
