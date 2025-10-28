@@ -30,7 +30,7 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>2</td>
       <td>A4988 Stepper Driver Modules</td>
       <td>2</td>
-      <td>Pololu-style driver boards for bipolar stepper control</td>
+      <td>driver boards for bipolar stepper control</td>
       <td><a href="https://www.amazon.co.uk/dp/B083V59HTB">link</a></td>
     </tr>
     <tr>
@@ -58,7 +58,7 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>6</td>
       <td>Multimeter</td>
       <td>1</td>
-      <td>Only needed to measure the reference voltage on th A4988 boards, to make sure they do not overpower the stepper mnotors</td>
+      <td>Only needed to measure the reference voltage on the A4988 boards, to make sure they do not overpower the stepper mnotors</td>
       <td><a href="https://www.amazon.co.uk/AstroAI-Digital-Multimeter-Measurement-Electronic/dp/B01ISAMUA6/">link</a></td>
     </tr>
     <tr>
