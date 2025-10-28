@@ -8,7 +8,6 @@ Here is the project with its driving surface removed, to show how it all works -
 And <A href=https://github.com/astromikemerri/Microcar/blob/main/Testdrive.mov>here is a quick test drive demo</a>.
 
 The  hardware that you need, together with some suggested links for buying them, is:
-<!-- Hardware Components Table -->
 <table>
   <thead>
     <tr>
