@@ -6,3 +6,7 @@ Here is the project with its driving surface removed, to show how it all works -
 <img src=https://github.com/astromikemerri/Microcar/blob/main/Topless.jpg width=500>
 
 And <A href=https://github.com/astromikemerri/Microcar/blob/main/Testdrive.mov>here is a quick test drive demo</a>.
+
+The electronics, though it looks a bit messy, is not that complicated, essentially just connecting two A4988 stepper motor drivers to a Seeed XIAO ESP32S3 to control the two linear actuators.  The only other hardware is two mcroswitches that I attached to the ends of the stepper motor rails, that the code uses to home the two motors, so it knows where the carriages are.
+
+A Fritzinbg file for the requisite wiring is <A href=https://github.com/astromikemerri/Microcar/blob/main/microcar.fzz> here</a>
