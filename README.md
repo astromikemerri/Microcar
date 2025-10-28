@@ -192,8 +192,8 @@ The pin assignments I used were:
 
 A Fritzing file for the requisite wiring is <A href=https://github.com/astromikemerri/Microcar/blob/main/microcar.fzz>here</a>.
 
-One piece of hardware tuning you will have to do is to make sure that the A4988 has been set to a current limit appropriate to these mini stepper motors, by adjusting the potentiometer on the board with a small screwdriver:
-1. Power the setup (XIAO on, 9V [pwer supply on).
+One piece of hardware tuning you will have to do is to make sure that the A4988 has been set to a current limit appropriate to these mini stepper motors, by adjusting the potentiometer on the A4988 board with a small screwdriver:
+1. Power the setup (XIAO on, 9V power supply on).
 2. connect voltmeter black to GND, red on the metal top of the pot.
 3. Turn the pot slowly until you read the target voltage of 0.24 V.
 4. Let it sit 1–2 minutes; if the chip is too hot to touch, turn the voltage down a little.
