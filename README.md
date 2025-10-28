@@ -5,7 +5,7 @@ Project for a tiny remote-control car, driven using linear actuators via a magne
 
 And <A href=https://github.com/astromikemerri/Microcar/blob/main/Testdrive.mov>here is a longer test drive demo</a> to show the full silliness of the project.
 
-The  hardware that you need, together with some suggested links for buying it, is:
+In addition to standard accessories like a half-size breadboard and plenty of jumper wires, the hardware that you need, together with some suggested links for buying it, is:
 <table>
   <thead> 
     <tr>
