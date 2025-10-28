@@ -55,25 +55,25 @@ The  hardware that you need, together with some suggested links for buying them,
       <td><a href="https://www.amazon.co.uk/dp/B0DF2LGSHR">link</a></td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>6</td>
       <td>M2.5x6 screws and washers</td>
       <td>—</td>
       <td>for attaching rails to motor carriages</td>
       <td><a href="https://www.amazon.co.uk/dp/B0CNVP5P4C">link</a></td>
     </tr>    
     <tr>
-      <td>9</td>
+      <td>7</td>
       <td>1.5mm diameter steel rods</td>
       <td>—</td>
       <td>to use as rails to drive the puck</td>
       <td><a href="https://www.amazon.co.uk/dp/B0D2V6WVT4">link</a></td>
     </tr>
         <tr>
-      <td>9</td>
+      <td>8</td>
       <td>magnets</td>
       <td>—</td>
-      <td>for puck and car to hold them together through the playign surface</td>
-      <td><a href="[https://www.amazon.co.uk/200-Pack-Magnets-Neodymium-Magnet-s-Whiteboards/dp/B0F138V5N9/)">link</a></td>
+      <td>for puck and car to hold them together through playing surface</td>
+      <td><a href="https://www.amazon.co.uk/200-Pack-Magnets-Neodymium-Magnet-s-Whiteboards/dp/B0F138V5N9/">link</a></td>
     </tr>
   
   </tbody>
