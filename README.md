@@ -3,7 +3,7 @@ Project for a tiny remote-control car, driven using linear actuators via a magne
 
 <img src=https://github.com/astromikemerri/Microcar/blob/main/animation.gif>
 
-And <A href=https://github.com/astromikemerri/Microcar/blob/main/Testdrive.mov>here is a quick test drive demo</a> to show the full silliness of the project.
+And <A href=https://github.com/astromikemerri/Microcar/blob/main/Testdrive.mov>here is a longer test drive demo</a> to show the full silliness of the project.
 
 The  hardware that you need, together with some suggested links for buying it, is:
 <table>
