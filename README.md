@@ -99,7 +99,7 @@ The  hardware that you need, together with some suggested links for buying them,
   </tbody>
 </table>
 
-The electronics, though it looks a bit messy, is not that complicated, essentially just connecting the  two A4988 stepper motor drivers to the Seeed XIAO ESP32S3 to control the two linear actuators.  The only other electronic hardware is two mcroswitches that are attached to the ends of the stepper motor rails, that the software uses to home the two motors, so it knows where the carriages are located on their screws.
+The electronics, though it looks a bit messy, is not that complicated, essentially just connecting the  two A4988 stepper motor drivers to the Seeed XIAO ESP32S3 to control the two linear actuators.  The only other electronic hardware are the two microswitches that are attached to the ends of the stepper motor rails, that the software uses to home the two motors, so it knows where the carriages are located on their screws.
 
 The pin assignments I used were:
 <!-- Stepper Driver Connections -->
