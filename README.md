@@ -58,14 +58,14 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>6</td>
       <td>Multimeter</td>
       <td>1</td>
-      <td>Only needed to measure the reference voltage on the A4988 boards, to make sure they do not overpower the stepper motors</td>
+      <td>Only needed to set the reference voltage on the A4988 boards</td>
       <td><a href="https://www.amazon.co.uk/AstroAI-Digital-Multimeter-Measurement-Electronic/dp/B01ISAMUA6/">link</a></td>
     </tr>
     <tr>
       <td>7</td>
-      <td>220 micro Farad Electrolytic Capacitor</td>
+      <td>220 micro F  Capacitor</td>
       <td>2</td>
-      <td>placed across motor power supply input adjacent to A4988, to suppress power spikes</td>
+      <td>placed across motor power supply input on A4988, to suppress  spikes</td>
       <td><a href="https://www.amazon.co.uk/dp/B07KC99W2K">link</a></td>
     </tr>    
     <tr>
