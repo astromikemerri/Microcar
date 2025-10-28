@@ -23,7 +23,7 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>1</td>
       <td>Seeed Studio XIAO ESP32S3</td>
       <td>1</td>
-      <td>Main microcontroller board (Wi-Fi + Bluetooth + USB-C)</td>
+      <td>ESP32 board with built-in WiFi</td>
       <td><a href="https://www.amazon.co.uk/dp/B0BYSB66S5">link</a></td>
     </tr>
     <tr>
