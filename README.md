@@ -54,15 +54,13 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>Regulated wall adapter for motor drivers (≥ 1 A recommended)</td>
       <td><a href="https://www.amazon.co.uk/dp/B0DF2LGSHR">link</a></td>
     </tr>
-  
     <tr>
       <td>9</td>
       <td>M2.5x6 screws and washers</td>
       <td>—</td>
       <td>for attaching rails to motor carriages</td>
       <td><a href="https://www.amazon.co.uk/dp/B0CNVP5P4C">link</a></td>
-    </tr>
-    
+    </tr>    
     <tr>
       <td>9</td>
       <td>1.5mm diameter steel rods</td>
@@ -70,7 +68,6 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>to use as rails to drive the puck</td>
       <td><a href="https://www.amazon.co.uk/dp/B0D2V6WVT4">link</a></td>
     </tr>
-
         <tr>
       <td>9</td>
       <td>magnets</td>
