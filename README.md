@@ -63,7 +63,7 @@ The  hardware that you need, together with some suggested links for buying them,
     </tr>
     <tr>
       <td>7</td>
-      <td>220 micro F  Capacitor</td>
+      <td>220 micro Farad Capacitor</td>
       <td>2</td>
       <td>placed across motor power supply input on A4988, to suppress  spikes</td>
       <td><a href="https://www.amazon.co.uk/dp/B07KC99W2K">link</a></td>
