@@ -99,3 +99,5 @@ The pin assignments I used were:
 <img src=https://github.com/astromikemerri/Microcar/blob/main/circuitwiring.jpg>
 
 A Fritzing file for the requisite wiring is <A href=https://github.com/astromikemerri/Microcar/blob/main/microcar.fzz> here</a>
+
+The other hardware elements are the 3D-printed parts, <A href=https://github.com/astromikemerri/Microcar/blob/main/MotorFittings.3mf>the fittings for the motors</a> and <A href=https://github.com/astromikemerri/Microcar/blob/main/housing.3mf>the housing for the project</a> 
