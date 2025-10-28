@@ -65,7 +65,7 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>7</td>
       <td>220 micro Farad Electrolytic Capacitor</td>
       <td>2</td>
-      <td>>placed across motor power supply input adjacent to A4988, to suppress power spikes</td>
+      <td>placed across motor power supply input adjacent to A4988, to suppress power spikes</td>
       <td><a href="https://www.amazon.co.uk/dp/B07KC99W2K">link</a></td>
     </tr>    
     <tr>
