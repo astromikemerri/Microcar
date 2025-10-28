@@ -56,20 +56,27 @@ The  hardware that you need, together with some suggested links for buying them,
     </tr>
     <tr>
       <td>6</td>
+      <td>Multimeter</td>
+      <td>1</td>
+      <td>Only needed to measure the reference voltage on th A4988 boards, to make sure they d not overpower the stepper mnotors</td>
+      <td><a href="https://www.amazon.co.uk/AstroAI-Digital-Multimeter-Measurement-Electronic/dp/B01ISAMUA6/">link</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>M2.5x6 screws and washers</td>
       <td>—</td>
       <td>for attaching rails to motor carriages</td>
       <td><a href="https://www.amazon.co.uk/dp/B0CNVP5P4C">link</a></td>
     </tr>    
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>1.5mm diameter steel rods</td>
       <td>—</td>
       <td>to use as rails to drive the puck</td>
       <td><a href="https://www.amazon.co.uk/dp/B0D2V6WVT4">link</a></td>
     </tr>
         <tr>
-      <td>8</td>
+      <td>9</td>
       <td>magnets</td>
       <td>—</td>
       <td>for puck and car to hold them together through playing surface</td>
@@ -173,6 +180,12 @@ The pin assignments I used were:
 <img src=https://github.com/astromikemerri/Microcar/blob/main/circuitwiring.jpg>
 
 A Fritzing file for the requisite wiring is <A href=https://github.com/astromikemerri/Microcar/blob/main/microcar.fzz> here</a>
+
+One piece of the hardware you may have to tune is to make sure that the A4988 has been set to a current limit appropriate to these minie stepper motors, by adjusting the potentiometer on the board with a small screwdriver:
+1. Power the setup (XIAO on, 9V [pwer supply on).
+2. connect voltmeter black to GND, red on the metal top of the pot.
+3. Turn the pot slowly until you read the target voltage of 0.24 V.
+4. Let it sit 1–2 minutes; if the chip is too hot to touch, turn the voltage down a little.
 
 The other hardware elements are the 3D-printed parts, <A href=https://github.com/astromikemerri/Microcar/blob/main/MotorFittings.3mf>the fittings for the motors</a> and <A href=https://github.com/astromikemerri/Microcar/blob/main/housing.3mf>the housing for the project</a>. I printed them on a Bambu A1-mini printer in PETG, using 0.08mm layers, but there is nothing particularly machine-dependent in the files.
 
