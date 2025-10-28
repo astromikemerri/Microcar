@@ -72,7 +72,7 @@ The  hardware that you need, together with some suggested links for buying it, i
       <td>8</td>
       <td>100k Ohm Resistor</td>
       <td>2</td>
-      <td>pulldwn on STEP pin of A4988</td>
+      <td>pulldown on STEP pin of A4988</td>
       <td><a href="https://www.amazon.co.uk/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FD1XVL6">link</a></td>
     </tr>    
     <tr>
