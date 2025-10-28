@@ -63,20 +63,36 @@ The  hardware that you need, together with some suggested links for buying them,
     </tr>
     <tr>
       <td>7</td>
+      <td>220 micro Farad Electrolytic Capacitor</td>
+      <td>2</td>
+      <td>>placed across motor power supply input adjacent to A4988, to suppress power spikes</td>
+      <td><a href="https://www.amazon.co.uk/dp/B07KC99W2K">link</a></td>
+    </tr>    
+
+    <tr>
+      <td>8</td>
+      <td>100k Ohm Resistor</td>
+      <td>2</td>
+      <td>pulldwn on STEP pin of A4988</td>
+      <td><a href="https://www.amazon.co.uk/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FD1XVL6">link</a></td>
+    </tr>    
+
+    <tr>
+      <td>9</td>
       <td>M2.5x6 screws and washers</td>
       <td>4</td>
       <td>for attaching rails to motor carriages</td>
       <td><a href="https://www.amazon.co.uk/dp/B0CNVP5P4C">link</a></td>
     </tr>    
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>1.5mm diameter steel rods</td>
       <td>4</td>
       <td>to use as rails to drive the puck</td>
       <td><a href="https://www.amazon.co.uk/dp/B0D2V6WVT4">link</a></td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
       <td>Tube of SuperLube</td>
       <td>1</td>
       <td>for greasing the rails to make sure everything moves smoothly</td>
