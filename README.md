@@ -195,7 +195,7 @@ A Fritzing file for the requisite wiring is <A href=https://github.com/astromike
 One piece of hardware tuning you will have to do is to make sure that the A4988 has been set to a current limit appropriate to these mini stepper motors, by adjusting the potentiometer on the A4988 board with a small screwdriver:
 1. Power the setup (XIAO on, 9V power supply on).
 2. connect voltmeter black to GND, red on the metal top of the pot.
-3. Turn the pot slowly until you read the target voltage of 0.24 V.
+3. Turn the pot slowly until you read a target voltage of approximately 0.24 V.
 4. Let it sit 1–2 minutes; if the chip is too hot to touch, turn the voltage down a little.
 
 The other hardware elements are the 3D-printed parts, <A href=https://github.com/astromikemerri/Microcar/blob/main/MotorFittings.3mf>the fittings for the motors</a> and <A href=https://github.com/astromikemerri/Microcar/blob/main/housing.3mf>the housing for the project</a>. Not forgetting <A href=https://github.com/astromikemerri/Microcar/blob/main/minicar3mm.3mf>the car itself</a>. I printed these all on a Bambu A1-mini printer in PETG, using 0.08mm layers, but there is nothing particularly machine-dependent in the files. Superglue one of your 5mm magnets into the puck and a 3mm one into the car, making sure that they are oriented to attract each other.
