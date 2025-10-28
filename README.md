@@ -7,7 +7,7 @@ Here is the project with its driving surface removed, to show how it all works -
 
 And <A href=https://github.com/astromikemerri/Microcar/blob/main/Testdrive.mov>here is a quick test drive demo</a>.
 
-The requisit hardware that you need is:
+The  hardware that you need, together with some suggested links for buying them, is:
 <!-- Hardware Components Table -->
 <table>
   <thead>
@@ -25,28 +25,28 @@ The requisit hardware that you need is:
       <td>Seeed Studio XIAO ESP32S3</td>
       <td>1</td>
       <td>Main microcontroller board (Wi-Fi + Bluetooth + USB-C)</td>
-      <td><a href="#">Insert link here</a></td>
+      <td><a href=https://www.amazon.co.uk/dp/B0BYSB66S5>link</a></td>
     </tr>
     <tr>
       <td>2</td>
       <td>A4988 Stepper Driver Modules</td>
       <td>2</td>
       <td>Pololu-style driver boards for bipolar stepper control</td>
-      <td><a href="#">Insert link here</a></td>
+      <td><a href="https://www.amazon.co.uk/dp/B083V59HTB">link</a></td>
     </tr>
     <tr>
       <td>3</td>
       <td>Lead-screw Linear Actuators</td>
       <td>2</td>
-      <td>Miniature 2-phase steppers with 0.5 mm lead screws</td>
-      <td><a href="#">Insert link here</a></td>
+      <td>Miniature 2-phase steppers with 0.5 mm lead screws and 80mm stroke</td>
+      <td><a href="https://www.aliexpress.com/item/1005006040414647.html">link</a></td>
     </tr>
     <tr>
       <td>4</td>
       <td>End-stop Microswitches</td>
       <td>2</td>
       <td>Normally-open switches for homing (LOW when pressed)</td>
-      <td><a href="#">Insert link here</a></td>
+      <td><a href="https://www.switchelectronics.co.uk/products/11mm-lever-subminiature-pcb-microswitch-spdt-3a">Insert link here</a></td>
     </tr>
     <tr>
       <td>5</td>
@@ -55,41 +55,31 @@ The requisit hardware that you need is:
       <td>Regulated wall adapter for motor drivers (≥ 1 A recommended)</td>
       <td><a href="#">Insert link here</a></td>
     </tr>
-    <tr>
-      <td>6</td>
-      <td>Wiring & Connectors</td>
-      <td>—</td>
-      <td>28 AWG silicone wire, Dupont jumpers, JST connectors, etc.</td>
-      <td><a href="#">Insert link here</a></td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Breadboard or Mounting PCB</td>
-      <td>1</td>
-      <td>For organizing the A4988 modules and connections</td>
-      <td><a href="#">Insert link here</a></td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>3D-Printed Frame Components</td>
-      <td>—</td>
-      <td>Custom puck, rail blocks, and track assembly (OpenSCAD/STL provided)</td>
-      <td><a href="#">Insert link here</a></td>
-    </tr>
+  
     <tr>
       <td>9</td>
-      <td>Screws, Nuts & Spacers</td>
+      <td>M2.5x6 screws and washers</td>
       <td>—</td>
-      <td>Hardware for assembling the rail system and securing motors</td>
-      <td><a href="#">Insert link here</a></td>
+      <td>for attaching rails to motor carriages</td>
+      <td><a href="https://www.amazon.co.uk/dp/B0CNVP5P4C">link</a></td>
     </tr>
+    
     <tr>
-      <td>10</td>
-      <td>Optional: Multimeter / USB Power Meter</td>
+      <td>9</td>
+      <td>1.5mm diameter steel rods</td>
       <td>—</td>
-      <td>For verifying motor supply current and voltage stability</td>
-      <td><a href="#">Insert link here</a></td>
+      <td>to use as rails to drive the puck</td>
+      <td><a href="https://www.amazon.co.uk/dp/B0D2V6WVT4">link</a></td>
     </tr>
+
+        <tr>
+      <td>9</td>
+      <td>magnets</td>
+      <td>—</td>
+      <td>for puck and car to hold them together through the playign surface</td>
+      <td><a href="[https://www.amazon.co.uk/200-Pack-Magnets-Neodymium-Magnet-s-Whiteboards/dp/B0F138V5N9/)">link</a></td>
+    </tr>
+  
   </tbody>
 </table>
 
