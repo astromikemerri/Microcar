@@ -9,7 +9,7 @@ And <A href=https://github.com/astromikemerri/Microcar/blob/main/Testdrive.mov>h
 
 The  hardware that you need, together with some suggested links for buying them, is:
 <table>
-  <thead>
+  <thead> 
     <tr>
       <th>#</th>
       <th>Component</th>
