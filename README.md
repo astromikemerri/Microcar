@@ -96,45 +96,6 @@ The pin assignments I used were:
   </tbody>
 </table>
 
-<!-- Power & Misc. (informational) -->
-<table>
-  <thead>
-    <tr>
-      <th>Signal</th>
-      <th>Connection</th>
-      <th>Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>A4988 VDD</td>
-      <td>ESP32 3.3 V</td>
-      <td>Logic supply</td>
-    </tr>
-    <tr>
-      <td>A4988 GND</td>
-      <td>ESP32 GND</td>
-      <td>Common ground (logic)</td>
-    </tr>
-    <tr>
-      <td>A4988 VMOT</td>
-      <td>External ~9 V</td>
-      <td>Motor supply (keep power GND returns stout)</td>
-    </tr>
-    <tr>
-      <td>RESET &amp; SLEEP</td>
-      <td>Tied together (A4988)</td>
-      <td>Keeps driver awake</td>
-    </tr>
-    <tr>
-      <td>MS1–MS3</td>
-      <td>Float / LOW</td>
-      <td>Full-step mode (as used in code)</td>
-    </tr>
-  </tbody>
-</table>
-
-
 <img src=https://github.com/astromikemerri/Microcar/blob/main/circuitwiring.jpg>
 
 A Fritzing file for the requisite wiring is <A href=https://github.com/astromikemerri/Microcar/blob/main/microcar.fzz> here</a>
