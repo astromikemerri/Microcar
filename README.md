@@ -58,7 +58,7 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>6</td>
       <td>Multimeter</td>
       <td>1</td>
-      <td>Only needed to measure the reference voltage on th A4988 boards, to make sure they d not overpower the stepper mnotors</td>
+      <td>Only needed to measure the reference voltage on th A4988 boards, to make sure they do not overpower the stepper mnotors</td>
       <td><a href="https://www.amazon.co.uk/AstroAI-Digital-Multimeter-Measurement-Electronic/dp/B01ISAMUA6/">link</a></td>
     </tr>
     <tr>
@@ -75,18 +75,15 @@ The  hardware that you need, together with some suggested links for buying them,
       <td>to use as rails to drive the puck</td>
       <td><a href="https://www.amazon.co.uk/dp/B0D2V6WVT4">link</a></td>
     </tr>
-        <tr>
-      <td>9</td>
-      <td>magnets</td>
+    <tr>
+      <td>8</td>
+      <td>SuperLube</td>
       <td>—</td>
-      <td>for puck and car to hold them together through playing surface</td>
-      <td><a href="https://www.amazon.co.uk/200-Pack-Magnets-Neodymium-Magnet-s-Whiteboards/dp/B0F138V5N9/">link</a></td>
+      <td>for greasing the rails to make sure everything moves smoothly</td>
+      <td><a href="https://www.amazon.co.uk/dp/B007UU9JMS">link</a></td>
     </tr>
-  
   </tbody>
 </table>
-
-
 
 The electronics, though it looks a bit messy, is not that complicated, essentially just connectingthe  two A4988 stepper motor drivers to the Seeed XIAO ESP32S3 to control the two linear actuators.  The only other hardware is two mcroswitches that are attached to the ends of the stepper motor rails, that the code uses to home the two motors, so it knows where the carriages are.
 
@@ -187,8 +184,10 @@ One piece of the hardware you may have to tune is to make sure that the A4988 ha
 3. Turn the pot slowly until you read the target voltage of 0.24 V.
 4. Let it sit 1–2 minutes; if the chip is too hot to touch, turn the voltage down a little.
 
-The other hardware elements are the 3D-printed parts, <A href=https://github.com/astromikemerri/Microcar/blob/main/MotorFittings.3mf>the fittings for the motors</a> and <A href=https://github.com/astromikemerri/Microcar/blob/main/housing.3mf>the housing for the project</a>. I printed them on a Bambu A1-mini printer in PETG, using 0.08mm layers, but there is nothing particularly machine-dependent in the files.
+The other hardware elements are the 3D-printed parts, <A href=https://github.com/astromikemerri/Microcar/blob/main/MotorFittings.3mf>the fittings for the motors</a> and <A href=https://github.com/astromikemerri/Microcar/blob/main/housing.3mf>the housing for the project</a>. Not forgetting <A href=https://github.com/astromikemerri/Microcar/blob/main/MotorFittings.3mf>the car itself</a>
 
-Finally, there is <A href=https://github.com/astromikemerri/Microcar/blob/main/ignition_drive.ino>the code</a>.  This sketch sets up the ESP32 as a web servre, which serves a webpage to your phone, which uses JavaScript to access the orientation data your pjone maintains, which is then sent back to the ESP32 from your phone via websockets.  Since iPhones only allow access to this data over a secure connection, you will also need <A href=https://github.com/astromikemerri/Microcar/blob/main/certs.h>this header file</a> with the necessary security certificates in it, which you just have to place in the same folder as the sketch when uploading the code to the ESP32 using the Arduino IDE.
+I printed them on a Bambu A1-mini printer in PETG, using 0.08mm layers, but there is nothing particularly machine-dependent in the files.
 
-(to steer by tipping side to side and accelerate by tipping away from you)
+Finally, there is <A href=https://github.com/astromikemerri/Microcar/blob/main/ignition_drive.ino>the code</a>.  This sketch sets up the ESP32 as a web servre, which serves a webpage to your phone, which uses JavaScript to access the orientation data your phone maintains, which is then sent back to the ESP32 from your phone via websockets.  Since iPhones only allow access to this data over a secure connection, you will also need <A href=https://github.com/astromikemerri/Microcar/blob/main/certs.h>this header file</a> with the necessary security certificates in it, which you just have to place in the same folder as the sketch when uploading the code to the ESP32 using the Arduino IDE.
+
+Grease the rails, and now you should be good to go!  Try it a few times withour the top on the housing, just to make sure everything is working.  
