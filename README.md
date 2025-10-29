@@ -86,9 +86,15 @@ In addition to standard accessories like a half-size breadboard and plenty of ju
       <td>4</td>
       <td>to use as rails to drive the puck</td>
       <td><a href="https://www.amazon.co.uk/dp/B0D2V6WVT4">link</a></td>
+    </tr><tr>
+      <td>11</td>
+      <td>3mm and 5mm diameter neodynium disc magnets</td>
+      <td>1</td>
+      <td>to embed in puck and car, to couple them together tgtough the driving surface</td>
+      <td><a href="https://www.amazon.co.uk/dp/B0D2V6WVT4">link</a></td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>Tube of SuperLube</td>
       <td>1</td>
       <td>for greasing the rails to make sure everything moves smoothly</td>
