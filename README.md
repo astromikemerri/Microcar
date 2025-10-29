@@ -90,7 +90,7 @@ In addition to standard accessories like a half-size breadboard and plenty of ju
       <td>11</td>
       <td>3mm and 5mm diameter neodynium disc magnets</td>
       <td>1</td>
-      <td>to embed in puck and car, to couple them together tgtough the driving surface</td>
+      <td>to embed in puck and car, to couple them together through the driving surface</td>
       <td><a href="https://www.amazon.co.uk/dp/B0D2V6WVT4">link</a></td>
     </tr>
     <tr>
