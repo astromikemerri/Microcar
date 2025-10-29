@@ -192,7 +192,7 @@ The pin assignments I used were:
   </tbody>
 </table>
 
-The breadboard is set up to provide a 3.3V logic bus down one side, and a 9V motor driver bus down the other. As the wiring diagram shows, in addition to connecting to the ESP32 logic pins and motors, various pins on the A4988 motor driver boards are held high or low to configure the driver. The discrete components of pull-down resistors and smoothing capacitors are also shown.
+The breadboard is set up to provide a 3.3V logic bus down one side, and a 9V motor driver bus down the other. As the wiring diagram shows, in addition to connecting to the ESP32 logic pins and motors, various pins on the A4988 motor driver boards are held high or low to configure the driver. The discrete components of pull-down resistors and smoothing capacitors are also placed as shown.
 
 <img src=https://github.com/astromikemerri/Microcar/blob/main/circuitwiring.jpg>
 
