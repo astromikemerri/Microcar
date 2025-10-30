@@ -198,7 +198,7 @@ The breadboard is set up to provide a 3.3V logic bus down one side, and a 9V mot
 
 A Fritzing file for this wiring is <A href=https://github.com/astromikemerri/Microcar/blob/main/microcar.fzz>here</a>.
 
-One small piece of electronic tuning you will have to do is to make sure that the A4988 has been set to a current limit appropriate to these mini stepper motors, by adjusting the potentiometer on the A4988 board with a small screwdriver:
+One small piece of electronic tuning you will have to do is to make sure that the A4988s have been set to a current limit appropriate to these mini stepper motors, by adjusting the potentiometers on the A4988 boards with a small screwdriver:
 1. Power the setup (XIAO on, 9V power supply on).
 2. connect voltmeter black to GND, red on the metal top of the pot.
 3. Turn the pot slowly until you read a target voltage of approximately 0.24 V.
